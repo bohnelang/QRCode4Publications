@@ -1,13 +1,13 @@
 # How to create QR codes for publication references  
 Authors sometimes want to save space in scientific posters in the part of literature references or want to pimp the references by a fancy QR code. Interested readers can fetch additional information online from posters or hand-out sheets by any QR code-capable mobile devices like smartphones or tablets.
 
-![Title](https://raw.githubusercontent.com/bohnelang/QRCode4PubMedPublications/main/imgs/qrexample2.jpg)
+![Title](https://raw.githubusercontent.com/bohnelang/QRCode4Publications/main/imgs/qrexample2.jpg)
 
 This small tutorial will show you how you can realise this.
 
 ## Create your URL
 * Fetch all the PubMed-IDs of your publications:
-![Title](https://raw.githubusercontent.com/bohnelang/QRCode4PubMedPublications/main/imgs/FindPMID.jpg)
+![Title](https://raw.githubusercontent.com/bohnelang/QRCode4Publications/main/imgs/FindPMID.jpg)
 
 * Build a PubMed search term:
 	* For a single publication: **https://pubmed.ncbi.nlm.nih.gov/?term=11675023[ID]**
@@ -20,11 +20,11 @@ This small tutorial will show you how you can realise this.
 
 ## Create your QR code
 Create a QR code image online - e.g. by RecodeMonkey https://www.qrcode-monkey.com/de/#more 
-* Enter the URL ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4PubMedPublications/main/imgs/recodemonkey1.jpg)
-* Optional: Upload Logo ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4PubMedPublications/main/imgs/recodemonkey2.jpg)
-* Create a QR code  ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4PubMedPublications/main/imgs/recodemonkey3.jpg)
-* Execute a quick check ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4PubMedPublications/main/imgs/recodemonkey5.jpg)
-*  Download QR code image ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4PubMedPublications/main/imgs/recodemonkey4.jpg)
+* Enter the URL ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4Publications/main/imgs/recodemonkey1.jpg)
+* Optional: Upload Logo ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4Publications/main/imgs/recodemonkey2.jpg)
+* Create a QR code  ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4Publications/main/imgs/recodemonkey3.jpg)
+* Execute a quick check ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4Publications/main/imgs/recodemonkey5.jpg)
+*  Download QR code image ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4Publications/main/imgs/recodemonkey4.jpg)
 
 
 
@@ -38,13 +38,13 @@ When citing papers please use a DOI or URN or other persistent links to the full
 * DOI: e.g  ```10.1093/bioinformatics/15.9.767``` 
 	* Create a URL like this:  ```https://doi.org/10.1093/bioinformatics/15.9.767``` 
 	* Create QR code like above 	
-	* Use the QR code in the reference list:  ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4PubMedPublications/main/imgs/qrexample2.jpg)
+	* Use the QR code in the reference list:  ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4Publications/main/imgs/qrexample2.jpg)
 
 ### Best-practice URN (Uniform Resource Name)
 * URN: e.g. ```urn:nbn:de:0183-mbi0003721``` 
 	* Create a URL like this: ```http://www.nbn-resolving.de/urn:nbn:de:0183-mbi0003721```
 	* Create QR code like above 
-	* Use the QR code in the reference list:  ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4PubMedPublications/main/imgs/qrexample4.jpg)
+	* Use the QR code in the reference list:  ![Title](https://raw.githubusercontent.com/bohnelang/QRCode4Publications/main/imgs/qrexample4.jpg)
 
 ``` --------------------------------------------------------------------------------------------------- ``` 
 
